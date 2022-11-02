@@ -19,3 +19,5 @@ allowed {
 enabled {
 	allowed
 }
+
+# new version
